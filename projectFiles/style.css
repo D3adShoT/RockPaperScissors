@@ -51,3 +51,9 @@ img {
     padding: 1rem;
     border-radius: 1rem;
 }
+.success {
+    background-color: green;
+}
+.failure {
+    background-color: red;
+}
